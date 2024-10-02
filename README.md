@@ -1,9 +1,10 @@
-# codsoft_Task1
-
-Ever wondered who survived the Titanic? 🧐🚢 Check out my latest project where I analyze the Titanic survival dataset to predict outcomes based on factors like gender, age, and class.
 
 
 # Titanic Survival Prediction Project
+
+# codsoft_Task1
+
+Ever wondered who survived the Titanic? 🧐🚢 Check out my latest project where I analyze the Titanic survival dataset to predict outcomes based on factors like gender, age, and class.
 
 ## Project Overview
 This project analyzes the Titanic survival dataset to predict survival outcomes based on various factors such as gender, age, and class. The aim is to uncover patterns and insights that contributed to survival rates during the tragic sinking of the Titanic.
